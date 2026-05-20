@@ -47,5 +47,5 @@ Skills demonstrated in this project:
 -	Power BI dashboard design, 
 - and analytical storytelling.
 
-## Image File
+## Dashboard Screenshot
 https://github.com/nafiuhub/Hospital-Performance-Dashboard/blob/main/PBI%20dashboard%20view.jpg
