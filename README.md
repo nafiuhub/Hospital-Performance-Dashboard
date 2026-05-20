@@ -48,4 +48,4 @@ Skills demonstrated in this project:
 - and analytical storytelling.
 
 ## Image File
-
+https://github.com/nafiuhub/Hospital-Performance-Dashboard/blob/main/PBI%20dashboard%20view.jpg
