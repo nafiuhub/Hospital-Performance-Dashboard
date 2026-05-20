@@ -46,3 +46,6 @@ Skills demonstrated in this project:
 -	data modeling, 
 -	Power BI dashboard design, 
 - and analytical storytelling.
+
+## Image File
+
